@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9e52ad1-fd25-4053-96be-e074502578d4": {
+      "ProjectGuid": "d9e52ad1-fd25-4053-96be-e074502578d4",
+      "DisplayName": "WheelOfFortune",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

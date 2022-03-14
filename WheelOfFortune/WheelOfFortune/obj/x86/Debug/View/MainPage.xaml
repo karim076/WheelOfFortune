@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="WheelOfFortune.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WheelOfFortune"
+    xmlns:ViewModel="using:WheelOfFortune.ViewModel"
+
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.DataContext>
+        <ViewModel:WheelOfFortune/>
+    </Page.DataContext>
+    <Grid>
+        <Image x:ConnectionId='2' x:Name="WheelOfFortuneImage" Source="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wheel_of_Fortune_-_Season_26_-_Round_4.svg/1200px-Wheel_of_Fortune_-_Season_26_-_Round_4.svg.png" RenderTransformOrigin="0.5, 0.5" Height="500" Width="500" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Image.RenderTransform >
+                <RotateTransform Angle="{Binding Angle}"/>
+            </Image.RenderTransform>
+        </Image>
+        <Button
+            Content = "Click me to Increase!"
+            Command = "{Binding RotateCommand}" />
+        <TextBlock Text = "{Binding Angle, Mode=OneWay}" />
+    </Grid>
+</Page>
+

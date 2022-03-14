@@ -1,0 +1,197 @@
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\App.xbf
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\View\MainPage.xbf
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.xr.xml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.exe
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.pdb
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\resources.pri
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\AppxManifest.xml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\AppxManifest.xml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\WheelOfFortune.exe
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.build.appxrecipe
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.dll
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.pdb
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.dll
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.i.cs
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.cs
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.cs
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xaml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xaml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xbf
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xbf
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CopyComplete
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.exe
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.pdb
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ResourceHandlingTask.state
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ProjectArchitectures.txt
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Git\Rotzooi\20211022 - PRC-III Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.AssemblyReference.cache
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\App.xbf
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\View\MainPage.xbf
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.xr.xml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.exe
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.pdb
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\resources.pri
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\AppxManifest.xml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\AppxManifest.xml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\WheelOfFortune.exe
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.build.appxrecipe
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.dll
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.pdb
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.dll
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.i.cs
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.cs
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.cs
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xaml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xaml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xbf
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xbf
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CopyComplete
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.exe
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.pdb
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ResourceHandlingTask.state
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ProjectArchitectures.txt
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Git\Rotzooi\20211101 - PRC-III Wheel Of Fortune - NoModel\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.AssemblyReference.cache
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\App.xbf
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\View\MainPage.xbf
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.xr.xml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.exe
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.pdb
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\resources.pri
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\AppxManifest.xml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\AppxManifest.xml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\WheelOfFortune.exe
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.build.appxrecipe
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.dll
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.pdb
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.dll
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.AssemblyReference.cache
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.i.cs
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.cs
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.cs
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xaml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xaml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xbf
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xbf
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CopyComplete
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.exe
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.pdb
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ResourceHandlingTask.state
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ProjectArchitectures.txt
+C:\Git\Rotzooi\20220313 - Wheel Of Fortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\App.xbf
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\View\MainPage.xbf
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.xr.xml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.exe
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\resources.pri
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\AppxManifest.xml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\WheelOfFortune.exe
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.build.appxrecipe
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.Toolkit.Mvvm.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.AssemblyReference.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.i.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.g.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.g.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xaml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xaml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\App.xbf
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\View\MainPage.xbf
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.csproj.CopyComplete
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.exe
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\WheelOfFortune.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
