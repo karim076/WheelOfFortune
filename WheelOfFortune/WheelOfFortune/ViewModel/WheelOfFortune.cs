@@ -94,6 +94,7 @@ namespace WheelOfFortune.ViewModel
         {
             Angle = 160;
             LastWin = checkPrize();
+  
         }
         public void startSpinning()
         {
