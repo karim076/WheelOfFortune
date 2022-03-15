@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>a8aa86fb-f673-4060-af4e-31677bf578e9</PackageIdentityName>
     <PackageIdentityPublisher>CN=wjhul</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.exe">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.exe">
       <PackagePath>entrypoint\WheelOfFortune.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
@@ -43,55 +43,55 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\wheel.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\wheel.png">
       <PackagePath>Assets\wheel.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\WheelOfFortune.xr.xml">
       <PackagePath>WheelOfFortune.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\View\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\View\MainPage.xbf">
       <PackagePath>View\MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\WheelOfFortune.exe">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\bin\x64\Debug\Core\WheelOfFortune.exe">
       <PackagePath>WheelOfFortune.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

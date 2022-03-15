@@ -8937,11 +8937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 1\\School_Jaar_2022\\Blok B\\PRA\\Extra\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune.csproj",
+      "projectUniqueName": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 1\\School_Jaar_2022\\Blok B\\PRA\\Extra\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune.csproj",
       "projectName": "WheelOfFortune",
-      "projectPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 1\\School_Jaar_2022\\Blok B\\PRA\\Extra\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune.csproj",
+      "projectPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 1\\School_Jaar_2022\\Blok B\\PRA\\Extra\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune.csproj",
       "packagesPath": "C:\\Users\\Karim Alkichouhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 1\\School_Jaar_2022\\Blok B\\PRA\\Extra\\WheelOfFortune\\WheelOfFortune\\WheelOfFortune\\obj\\",
+      "outputPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 1\\School_Jaar_2022\\Blok B\\PRA\\Extra\\WheelOfFortune\\WheelOfFortune\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

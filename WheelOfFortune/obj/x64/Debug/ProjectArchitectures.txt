@@ -1,1 +1,1 @@
-C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune\WheelOfFortune.csproj;x64
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\PRA\Extra\WheelOfFortune\WheelOfFortune\WheelOfFortune.csproj;x64
